@@ -1,2 +1,2 @@
 [# github_action]
-https://github.com/github/docs/actions/workflows/.github/workflows/main.yml/badge.svg
+![example workflow](https://github.com/pegi-os/githubactiontest/actions/workflows/python-unittest-main.yml/badge.svg)
